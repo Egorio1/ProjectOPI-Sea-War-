@@ -1,0 +1,15 @@
+﻿  duo.cpp
+  initGrid.cpp
+  load.cpp
+  main.cpp
+  options.cpp
+  placeShip.cpp
+D:\Учеба\Проект\Main\SeaWar\placeShip.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  playgame.cpp
+  printpole.cpp
+  Создание кода
+  2 of 183 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  SeaWar.vcxproj -> D:\Учеба\Проект\Main\x64\Release\SeaBattle.exe

@@ -1,0 +1,43 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.41.34120.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///d:/учеба/проект/main/seawar/printpole.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "f3c8e32060af55eb363637a5e20f06a272d45aa88f1e31ea3c48ebc36a59c10d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/учеба/проект/main/seawar/game.h"
+          },
+          "hashes": {
+            "sha-256": "7cbe565ad3afca6f5076a386a0f4e52cba3a3a8546ca3e9cba70980282d96cdb"
+          }
+        }
+      ]
+    }
+  ]
+}

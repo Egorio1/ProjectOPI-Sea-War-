@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\Main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95B29AC3-0DC6-477D-92F5-31AEAA86E104}|SeaWar\\SeaWar.vcxproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\Main\\SeaWar\\playgame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95B29AC3-0DC6-477D-92F5-31AEAA86E104}|SeaWar\\SeaWar.vcxproj|solutionrelative:SeaWar\\playgame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B29AC3-0DC6-477D-92F5-31AEAA86E104}|SeaWar\\SeaWar.vcxproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\Main\\SeaWar\\duo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95B29AC3-0DC6-477D-92F5-31AEAA86E104}|SeaWar\\SeaWar.vcxproj|solutionrelative:SeaWar\\duo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B29AC3-0DC6-477D-92F5-31AEAA86E104}|SeaWar\\SeaWar.vcxproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\Main\\SeaWar\\options.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95B29AC3-0DC6-477D-92F5-31AEAA86E104}|SeaWar\\SeaWar.vcxproj|solutionrelative:SeaWar\\options.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B29AC3-0DC6-477D-92F5-31AEAA86E104}|SeaWar\\SeaWar.vcxproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\Main\\SeaWar\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95B29AC3-0DC6-477D-92F5-31AEAA86E104}|SeaWar\\SeaWar.vcxproj|solutionrelative:SeaWar\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B29AC3-0DC6-477D-92F5-31AEAA86E104}|SeaWar\\SeaWar.vcxproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\Main\\SeaWar\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95B29AC3-0DC6-477D-92F5-31AEAA86E104}|SeaWar\\SeaWar.vcxproj|solutionrelative:SeaWar\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B29AC3-0DC6-477D-92F5-31AEAA86E104}|SeaWar\\SeaWar.vcxproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\Main\\SeaWar\\printpole.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95B29AC3-0DC6-477D-92F5-31AEAA86E104}|SeaWar\\SeaWar.vcxproj|solutionrelative:SeaWar\\printpole.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B29AC3-0DC6-477D-92F5-31AEAA86E104}|SeaWar\\SeaWar.vcxproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\Main\\SeaWar\\placeShip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95B29AC3-0DC6-477D-92F5-31AEAA86E104}|SeaWar\\SeaWar.vcxproj|solutionrelative:SeaWar\\placeShip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B29AC3-0DC6-477D-92F5-31AEAA86E104}|SeaWar\\SeaWar.vcxproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\Main\\SeaWar\\initGrid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95B29AC3-0DC6-477D-92F5-31AEAA86E104}|SeaWar\\SeaWar.vcxproj|solutionrelative:SeaWar\\initGrid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B29AC3-0DC6-477D-92F5-31AEAA86E104}|SeaWar\\SeaWar.vcxproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\Main\\SeaWar\\load.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95B29AC3-0DC6-477D-92F5-31AEAA86E104}|SeaWar\\SeaWar.vcxproj|solutionrelative:SeaWar\\load.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "duo.cpp",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\Main\\SeaWar\\duo.cpp",
+              "RelativeDocumentMoniker": "SeaWar\\duo.cpp",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\Main\\SeaWar\\duo.cpp",
+              "RelativeToolTip": "SeaWar\\duo.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T17:46:16.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "options.cpp",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\Main\\SeaWar\\options.cpp",
+              "RelativeDocumentMoniker": "SeaWar\\options.cpp",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\Main\\SeaWar\\options.cpp",
+              "RelativeToolTip": "SeaWar\\options.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T05:02:46.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\Main\\SeaWar\\main.cpp",
+              "RelativeDocumentMoniker": "SeaWar\\main.cpp",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\Main\\SeaWar\\main.cpp",
+              "RelativeToolTip": "SeaWar\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T03:03:40.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "game.h",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\Main\\SeaWar\\game.h",
+              "RelativeDocumentMoniker": "SeaWar\\game.h",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\Main\\SeaWar\\game.h",
+              "RelativeToolTip": "SeaWar\\game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-28T12:19:37.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "playgame.cpp",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\Main\\SeaWar\\playgame.cpp",
+              "RelativeDocumentMoniker": "SeaWar\\playgame.cpp",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\Main\\SeaWar\\playgame.cpp",
+              "RelativeToolTip": "SeaWar\\playgame.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T10:27:14.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "printpole.cpp",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\Main\\SeaWar\\printpole.cpp",
+              "RelativeDocumentMoniker": "SeaWar\\printpole.cpp",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\Main\\SeaWar\\printpole.cpp",
+              "RelativeToolTip": "SeaWar\\printpole.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T10:14:45.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "placeShip.cpp",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\Main\\SeaWar\\placeShip.cpp",
+              "RelativeDocumentMoniker": "SeaWar\\placeShip.cpp",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\Main\\SeaWar\\placeShip.cpp",
+              "RelativeToolTip": "SeaWar\\placeShip.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T09:56:12.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "initGrid.cpp",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\Main\\SeaWar\\initGrid.cpp",
+              "RelativeDocumentMoniker": "SeaWar\\initGrid.cpp",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\Main\\SeaWar\\initGrid.cpp",
+              "RelativeToolTip": "SeaWar\\initGrid.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T19:16:31.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "load.cpp",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\Main\\SeaWar\\load.cpp",
+              "RelativeDocumentMoniker": "SeaWar\\load.cpp",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u043E\u0435\u043A\u0442\\Main\\SeaWar\\load.cpp",
+              "RelativeToolTip": "SeaWar\\load.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T21:13:23.142Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
